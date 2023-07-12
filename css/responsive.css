@@ -1,0 +1,68 @@
+@media (max-width: 768px) {
+    body {
+        text-align: center;
+    }
+
+    .section-title {
+        font-size: 40px;
+    }
+    
+    #banner {
+        padding-block: 40px;
+    }    
+    .banner__content h1 {
+        font-size: 56px;
+    }
+    .banner__content>.d-flex {
+        margin-top: 20px;
+    }
+
+    #about .container{
+        padding-block: 40px;
+    }
+
+    #process {
+        margin-top: 60px;
+        padding-block: 40px;
+    }
+
+    #portfolio {
+        padding-block: 50px;
+    }
+
+    .portfolio__card-box {
+        margin-top: 35px;
+    }
+
+    .work-together__content {
+        padding-block: 50px;
+    }
+
+    #services {
+        padding-block: 50px;
+    }
+
+    .services__card {
+        padding: 12px;
+    }
+
+    #happy-clients {
+        padding-block: 40px;
+    }
+
+    .happy-clients__logo img{
+        padding: 30px 15px;
+    }
+
+    #contact .container{
+        padding: 20px;
+    }
+
+    form #budget {
+        width: 100%;
+    }
+
+    form #subject {
+        width: 100%;
+    }
+}
